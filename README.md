@@ -65,6 +65,6 @@ First HTML project from freeCodeCamp
     </footer>
   </body>
 </html>
-Add index.html from freeCodeCamp CatPhotoApp
+
 
 
